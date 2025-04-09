@@ -18,7 +18,8 @@ Quito-Ecuador
 -Dirigirse al ícono de Run y correr el test o (Mayús + F10)
 --------------------------------------------------------------------
 3. Comandos para ejecución por consola
- -Comando para limpiar el proyecto y luego ejecuta TODOS los escenarios uno por uno ./gradlew clean test
+ -Comando para limpiar el proyecto y luego ejecuta TODOS los escenarios uno por uno
+./gradlew clean test
 --------------------------------------------------------------------
 4. Reporte
 El reporte sera generado en: APIKARA\build\reports\tests\test\index.html
