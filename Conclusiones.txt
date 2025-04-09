@@ -1,0 +1,6 @@
+Conclusiones:
+-Karate permite validar respuestas JSON/XML con pocos comandos.
+-Permite diseñar un código mas limpio, organizado y fácil de entender.
+-Mediante el uso de este Framework para API he aprendido a estructurar mejor con buenas prácticas.
+-Es una excelente opción para proyectos que requieren velocidad de desarrollo, fácil mantenimiento y pruebas integrales de APIs.
+
