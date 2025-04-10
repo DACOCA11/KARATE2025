@@ -9,4 +9,4 @@ Feature: Get pet from PetStore
     Given param status = petStatusUpdated
     When method get
     Then status 200
-    And match response contains deep { id: '#(petgId)', name: "#(petNameUpdated)", status: '#(petStatusUpdated)' }
+    And match response contains deep [{ id: '#(petIdr)', name: "#(petNameUpdated)", status: '#(petStatusUpdated)' }]
